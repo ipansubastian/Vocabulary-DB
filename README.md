@@ -1,3 +1,3 @@
-#Vocabulary-DB
+# Vocabulary-DB
 
 Database of Vocabularies
