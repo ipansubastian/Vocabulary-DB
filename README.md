@@ -1,3 +1,3 @@
-# Vocabulary-DB
+#Vocabulary-DB
 
-Basis data kosakata berbagai bahasa.
+Database of Vocabularies
